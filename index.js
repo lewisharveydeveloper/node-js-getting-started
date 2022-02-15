@@ -99,6 +99,6 @@ async function gotMessage(msg) {
     msg.channel.send("^^ tosser ^^");
   }
   else if (msg.author.id == "273546892036538368") {
-    msg.channel.send("^ this guy fucks");
+    msg.channel.send("^ this guy smells");
   }
 }
